@@ -3,8 +3,8 @@
 # Definition:- 
   By using k means algorithm we are anlysing lithium battery life
 # Libraries:
-  1.pandas
-  2.numpy
+ \n 1.pandas
+  \n2.numpy
   3.matplotlib
   4.seaborn
   5.sklearn
